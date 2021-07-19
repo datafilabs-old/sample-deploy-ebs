@@ -2,7 +2,7 @@
   "AWSEBDockerrunVersion": "1",
   "Logging": "/tmp/sample-app",
   "Image": {
-    "Name": "nginx",
+    "Name": "public.ecr.aws/d7u0j4v0/datafi-edge-server:0.3.8-alpha-32",
     "Update": "true"
   },
   "Ports": [
